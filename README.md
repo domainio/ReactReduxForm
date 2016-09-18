@@ -15,10 +15,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ####Covered Features:#####
 
-**
-* Redux: actions, reducers
-* Redux Form: form validation
-* React Router
-* HTTP requests to 3rd-party RESTful API (using node.js axios)
-* Redux Promise (middleware)
-**
+* __Redux: actions, reducers__
+* __Redux Form: form validation__
+* __React Router__
+* __HTTP requests to 3rd-party RESTful API (using node.js axios)__
+* __Redux Promise (middleware)__
