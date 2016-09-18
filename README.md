@@ -12,6 +12,9 @@ Posts form CRUD app sample using Redux Form
 * __Redux Promise (middleware)__
 
 
+
+![alt tag](https://lh3.googleusercontent.com/XcK-Mm2EBolHnQUkw3qn9nOWCO4Ot4S9VvNHRpqNqBsB5CnIrKs4-IS0xMsr1SH0qr4IGx4lKKLkTdw=w1366-h642-rw)
+
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
