@@ -13,7 +13,7 @@ Posts form CRUD app sample using Redux Form
 
 
 
-![alt tag](https://lh3.googleusercontent.com/XcK-Mm2EBolHnQUkw3qn9nOWCO4Ot4S9VvNHRpqNqBsB5CnIrKs4-IS0xMsr1SH0qr4IGx4lKKLkTdw=w1366-h642-rw)
+![alt tag](https://www.dropbox.com/s/g36enxbthz816dk/posts-form-app.png?raw=1)
 
 ###Getting Started###
 
