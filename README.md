@@ -10,6 +10,7 @@ Posts form CRUD app sample using Redux Form
 * __React Router__
 * __HTTP requests to 3rd-party RESTful API (using node.js axios)__
 * __Redux Promise (middleware)__
+* __env: webpack, babel__
 
 
 
@@ -17,7 +18,7 @@ Posts form CRUD app sample using Redux Form
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the process with the following:
 
 ```
 	> git clone https://github.com/domainio/ReactReduxPostsForm.git
